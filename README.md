@@ -121,7 +121,7 @@ MockNetOptions{
 | M3 | CLI and interactive REPL | ✅ |
 | M4 | Unit testing — 1000+ node mock, ≥80% coverage | ✅ |
 | M5 | Docker/Compose containerisation | ✅ |
-| M6 | Lab report | ✅ |
+| M6 | Project report | ✅ |
 | M7 | Concurrency and thread safety | ✅ |
 
 ## Known Limitations
